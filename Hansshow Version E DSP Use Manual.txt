@@ -1,0 +1,49 @@
+Hansshow Version E DSP
+
+Input 4 channels
+Output 8 Channels
+Product Category AB Class
+Supply Voltage 12~14 DC
+Power output 2Ohm 8*60W
+Power output 4Ohm 8*50W
+Frequency response 10Hz~36kHz
+signal-to-noise ratio >95 dB
+Speaker input impedance > 22K ohm
+Distortion <0.05%
+Sample rate 96kHz
+
+Speaker input adjustment chart:
+
+CH1-Front Left door Tweeter and Front Left Surround Speaker
+CH2-Front Right door Tweeter and Front Right Surround Speaker
+CH3-Front left door speaker
+CH4-Front right door speaker
+
+CH1, CH2 input signals are more powerfulthan CH3,CH4, 
+good for providing the rear audio signal
+CH1-Rear left door speaker
+CH2-Rear right door speaker
+
+
+Speaker Output adjustment chart:
+
+CH1-Front Left door Tweeter and Front Left Surround Speaker
+CH2-Front Right door Tweeter and Front Right Surround Speaker
+CH3-Front left door speaker
+CH4-Front right door speaker
+CH5-Rear left door speaker
+CH6-Rear right door speaker
+
+CH7, CH8 not use in this version
+
+Note: before you adjust the DSP, save a copy of the original configuration, 
+if you mess up the audio effect, you can restore the original configuration.
+
+
+Only professional Audio user can use it, the speaker damaged by 
+improper software use does not cover by our warranty
+
+Copyright@ Hansshow Tech 2020
+
+Business info:inquiry@hansshow.com
+Service info:support@hansshow.com
